@@ -1,0 +1,25 @@
+// Place all the styles related to the Events controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+  text-align: center;
+  justify-content: center;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.buttonholder{ text-align: center; }
+
+a {
+  color: hotpink;
+}
+
+.nav-link {
+  color: black;
+}
+
+.btn-primary {
+  color: white!important;
+  background-color: #85889c !important;
+  border-color: white !important;
+}
